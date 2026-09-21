@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Mohammed Abderrahman Sid’ahmed Lekbar
 
 ### 🌍 À propos de moi
-- 🎓 Étudiant en deuxième année à ISCAE (Nouakchott, Mauritanie)
+- 🎓 Étudiant en troisième année à ISCAE (Nouakchott, Mauritanie)
 - 💻 Développeur web actif (HTML, CSS, SQL, PHP, Java, C#, )
 - 🌐 Président (Community Lead) de GDSC ISCAE
 
